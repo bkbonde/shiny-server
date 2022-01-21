@@ -20,7 +20,7 @@
     "graceful-fs": "4.1.x",
     "handlebars": "^4.0.8",
     "http-proxy": "^1.15.2",
-    "log4js": "^1.1.1",
+    "log4js": "^6.4.0",
     "mocha": "^3.4.1",
     "moment": "^2.15.2",
     "morgan": "^1.7.0",
